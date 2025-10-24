@@ -70,9 +70,8 @@ basketball-scoreboard/
 👨‍💻 Author
 
 Shane Sanal
-📧 [your-email@example.com
-]
-💻 GitHub
+📧 E-mail: shanemathewsanal@gmail.com
+💻 GitHub: https://github.com/shanesanal
 
 🪪 License
 
