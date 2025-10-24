@@ -73,6 +73,8 @@ Shane Sanal
 📧 E-mail: shanemathewsanal@gmail.com
 💻 GitHub: https://github.com/shanesanal
 
+Deployed this project on Netlify
+URL : https://basketballscorecard1.netlify.app/
 🪪 License
 
 This project is licensed under the MIT License — feel free to use and modify it for your own projects.
